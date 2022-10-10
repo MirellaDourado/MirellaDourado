@@ -7,10 +7,9 @@
     <li> My name is Mirella Dourado </li>
     <li> I'm a full-stack web development student </li>
     <li> I'm from Brazil, Salvador - Bahia </li>
-    <li> I love study and I'm very curious </li>
-    <li> Recentment I'm studying JavaScript and Java </li>
+    <li> I love to study and I'm very curious </li>
+    <li> Recently I'm studying JavaScript and Java </li>
     <li> I study at Trybe and at Digital Innovation One </li>
-    <li> I speak portuguese, english and a little bit of korean and french </li>
   </ul>
 </main>
 <section>
@@ -22,10 +21,10 @@
 <section>
   <h2> Languages </h2>
   <ul>
-  <li>Portuguese - native</li>
-  <li>English - intermediary</li>
-  <li>French- basic</li>
-  <li>Korean - basic </li>
+    <li>Portuguese - native</li>
+    <li>English - intermediary</li>
+    <li>French - basic</li>
+    <li>Korean - basic </li>
   </ul>
 </section>
 <div>
