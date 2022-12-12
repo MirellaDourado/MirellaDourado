@@ -14,7 +14,7 @@
 </main>
 <section display="flex" align="center">
   <h2> Programming Languages </h2>
-  <a href="https://mirelladourado.github.io/">
+  <a href="https://mirelladourado.vercel.app/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MirellaDourado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirellaDourado&layout=compact&langs_count=7&theme=dracula"/>
 </section>
@@ -30,7 +30,7 @@
 <div display="flex" align="center">
     <h2>Social Media</h2>
     <a href="https://www.linkedin.com/in/mirelladourado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://mirelladourado.github.io/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO%20%E2%99%A5-%23E4405F?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
+    <a href="https://mirelladourado.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO%20%E2%99%A5-%23E4405F?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
     <a href = "mailto:mirellaalvesdourado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div display="flex" align="center">
