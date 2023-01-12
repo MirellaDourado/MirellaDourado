@@ -8,16 +8,16 @@
     <li> I'm a full-stack web development student </li>
     <li> I'm from Brazil, Salvador - Bahia </li>
     <li> I love to study and I'm very curious </li>
-    <li> Recently I'm studying JavaScript and Java </li>
+    <li> Recently I'm studying NodeJs, Java and Docker</li>
     <li> I study at Trybe and at Digital Innovation One </li>
   </ul>
 </main>
-<section display="flex" align="center">
+<!-- <section display="flex" align="center">
   <h2> Programming Languages </h2>
   <a href="https://mirelladourado.vercel.app/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MirellaDourado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirellaDourado&layout=compact&langs_count=7&theme=dracula"/>
-</section>
+</section> -->
 <section>
   <h2> Languages </h2>
   <ul>
@@ -43,4 +43,5 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
