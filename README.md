@@ -12,12 +12,12 @@
     <li> I study at Trybe and at Digital Innovation One </li>
   </ul>
 </main>
-<!-- <section display="flex" align="center">
+ <section display="flex" align="center">
   <h2> Programming Languages </h2>
   <a href="https://mirelladourado.vercel.app/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MirellaDourado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirellaDourado&layout=compact&langs_count=7&theme=dracula"/>
-</section> -->
+</section>
 <section>
   <h2> Languages </h2>
   <ul>
