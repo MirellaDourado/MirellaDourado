@@ -8,7 +8,7 @@
     <li> I'm a full-stack web development student </li>
     <li> I'm from Brazil, Salvador - Bahia </li>
     <li> I love to study and I'm very curious </li>
-    <li> Recently I'm studying NodeJs, Java and Docker</li>
+    <li> Recently I'm studying NodeJs, Java and MySql</li>
     <li> I study at Trybe and at Digital Innovation One </li>
   </ul>
 </main>
